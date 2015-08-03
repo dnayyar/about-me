@@ -1,2 +1,2 @@
-no, bluenic
-rede
+no, blue
+Seattle
